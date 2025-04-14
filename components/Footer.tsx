@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Logo and Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Bharat Health</h3>
+            <h3 className="text-xl font-bold mb-4">Maxim Makovskiy</h3>
             <p className="text-sm mb-4">
               Empowering healthcare professionals with efficient patient management. Stay organized, save time, and enhance care.
             </p>
@@ -70,7 +70,7 @@ const Footer = () => {
 
         {/* Copyright Section */}
         <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm">
-          <p>&copy; 2024 Bharat Health. All Rights Reserved.</p>
+          <p>&copy; 2025 Maxim Makovskiy. All Rights Reserved.</p>
         </div>
       </div>
     </div>

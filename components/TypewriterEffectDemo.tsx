@@ -17,7 +17,7 @@ export function TypewriterEffectDemo() {
       text: "with",
     },
     {
-      text: "Bharat Health.",
+      text: "Maxim Makovskiy.",
       className: "text-blue-500 dark:text-blue-500",
     },
   ];
